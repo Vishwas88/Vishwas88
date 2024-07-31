@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kodithala Vishwas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A dedicated software engineering student seeking to apply academic knowledge and practical skills in a dynamic software development environment to contribute effectively to innovative projects and further professional growth.</h3>
+
+- 🌱 I’m currently learning **reactjs,servlets,springboot**
+
+- 👨‍💻 All of my projects are available at [https://vishwas-kodithala-portfolio.netlify.app/](https://vishwas-kodithala-portfolio.netlify.app/)
 
 - 📫 How to reach me **kodithalavishwas@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Lgjp-Gs4YC3NdEcDvy6Vrg3VrZqbhEXh/view?usp=sharing](https://drive.google.com/file/d/1Lgjp-Gs4YC3NdEcDvy6Vrg3VrZqbhEXh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
